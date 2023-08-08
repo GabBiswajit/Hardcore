@@ -1,6 +1,6 @@
 name: Hardcore
 api: 5.0.0
-main: Biswajit\Heardcore\Main
+main: Biswajit\Hardcore\Main
 version: 1.0.0
 author: Biswajit
 description: "A Hardcore Plugin Ban Player On Death"
