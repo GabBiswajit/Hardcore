@@ -1,0 +1,13 @@
+# Don't Touch This Only For Author !
+version: 1.0.0
+
+# Amount For Revive A Player !
+Revive-Amount: 50000
+
+# Player Protected Time On Join Player Save For A Time !
+Protected-Time: 60 # Seconds In Minutes = 1 Minutes.
+
+# Max Time Respawn !
+Max-Life: 1 # Set How Much Time Player Was Respawn.
+
+# ---------------------------HeardCore By Biswajit---------------------------#￼Enter
