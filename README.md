@@ -19,4 +19,4 @@
 - ***/revive*** To Revived A Players.
 
 ## Economy
-- This Plugin Work on **libEco** And **LibEco** Currently Supported [EconomyAPI[(https://poggit.pmmp.io/ci/mathchat900/EconomyAPI-PM5/~) And [BedrockEconomy](https://poggit.pmmp.io/p/BedrockEconomy/)
+- This Plugin Work on **libEco** And **LibEco** Currently Supported [EconomyAPI](https://poggit.pmmp.io/ci/mathchat900/EconomyAPI-PM5/~) And [BedrockEconomy](https://poggit.pmmp.io/p/BedrockEconomy/)
