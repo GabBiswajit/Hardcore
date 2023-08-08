@@ -1,0 +1,17 @@
+name: Heardcore
+api: 5.0.0
+main: Biswajit\Heardcore\Main
+version: 1.0.0
+author: Biswajit
+description: "A Heardcore Plugin Ban Player On Death"
+softdepend: ["BedrockEconomy", "EconomyAPI"]
+
+commands:
+    revive:
+        description: "Use To Revive A Ban Player"
+        permission: Heardcore.cmd.revive
+
+permissions:
+    Heardcore.cmd.revive:
+        description: "Permission To Use /revive Command"
+        default: true
